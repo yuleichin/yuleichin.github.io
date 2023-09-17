@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Yulei Qin"
   avatar           : "profile_work.jpeg"
-  bio              : "Senior Researcher"
+  bio              : "Senior Researcher at Tencent"
   location         : "Shanghai, China"
-  employer         : "Tencent"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=vBnuTjwAAAAJ&hl=zh-CN"
   email            : "yuleichin@126.com"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/yuleiqin"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yuleiqin"
   orcid            : "https://orcid.org/0000-0002-0996-3984"
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "yolay92246127"
   vine             :
   weibo            :
   xing             :
