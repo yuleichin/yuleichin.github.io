@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "/images/IMG_3488_resize.jpeg"
+  avatar           : "IMG_3488_resize.jpeg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
