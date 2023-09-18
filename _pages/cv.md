@@ -68,3 +68,13 @@ Skills
   * Japanese, JLPT N1
   * French, un peu :)
 <!-- * Skill  -->
+
+
+People
+======
+Prof. [Jie Yang](http://www.pami.sjtu.edu.cn/En/jieyang)
+Prof. [Yue-Min Zhu](https://www.creatis.insa-lyon.fr/site7/en/users/zhu)
+Prof. [Guang-Zhong Yang](https://imr.sjtu.edu.cn/en/po_facultyv/532.html)
+Associate Prof. [Xiaolin Huang](http://www.pami.sjtu.edu.cn/En/xiaolin)
+Associate Prof. [Yun Gu](https://imr.sjtu.edu.cn/en/po_facultyv/531.html)
+
