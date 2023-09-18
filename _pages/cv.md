@@ -15,9 +15,9 @@ Education
 * Ph.D. in Traitement du Signal et de l'Image, INSA de Lyon, France, 2021
 * Ph.D. in Control Science and Engineering, Shanghai Jiao Tong University, China, 2022
 
-Work experience
-======
 
+<!-- Work experience
+====== -->
 <!-- * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -27,16 +27,7 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub -->
-  
-Skills
-======
 
-<!-- * Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
 
 Publications
 ======
@@ -59,8 +50,21 @@ Teaching
 Awards
 ======
 * 李介谷优秀博士论文奖, Shanghai Jiao Tong University, 2022
+* National Scholarship for Ph.D. Students (国家奖学金), 2019 
+* China Scholarship Council, 2019
+
 
 Service
 ======
-* Conference Reviewer: MICCAI 2021,2022(Honorable Mentions),2023
-* Journal Reviewer: IEEE TMI(Distinguished)/JBHI, Med. Physics, AIIM, CMPB, MLWA
+* Conference Reviewer: MICCAI 2021, 2022 (Honorable Mentions), 2023
+* Journal Reviewer: IEEE TMI (Distinguished), IEEE JBHI, Med. Physics, AIIM, CMPB, MLWA
+
+
+Skills
+======
+* Languages
+  * Mandarin, mother tongue
+  * English, TOEFL 105
+  * Japanese, JLPT N1
+  * French, un peu :)
+<!-- * Skill  -->
