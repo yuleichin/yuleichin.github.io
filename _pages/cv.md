@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* 2022.03--: Senior Researcher
+* 2022.03--Now: Senior Researcher
   * Tencent YouTu Lab
 
 
