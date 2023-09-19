@@ -16,25 +16,24 @@ Education
 * Ph.D. in Control Science and Engineering, Shanghai Jiao Tong University, China, 2022
 
 
-<!-- Work experience
-====== -->
-<!-- * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
-
-
-Selected Publications
+Work experience
 ======
-  <ul>{% for post in site.publications %}
+* 2022.03--: Senior Researcher
+  * Tencent YouTu Lab
+
+
+* 2016.02--2019.12: Teaching Assistant
+  * Shanghai Jiao Tong University
+  * Python 夏令营 (2019); 嵌入式系统原理与应用 (2019); 数据库原理与应用 (2018,2019); 模拟电子技术 (2018); 信号与系统 (2016)
+
+
+
+<!-- Publications
+====== -->
+  <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> -->
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
@@ -46,6 +45,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
+
 
 Awards
 ======
