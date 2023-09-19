@@ -51,7 +51,7 @@ Awards
 ======
 * 李介谷优秀博士论文奖, Shanghai Jiao Tong University, 2022
 * National Scholarship for Ph.D. Students (国家奖学金), 2019 
-* China Scholarship Council, 2019
+* China Scholarship Council (公派奖学金), 2019
 
 
 Service
