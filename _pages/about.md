@@ -13,7 +13,7 @@ This is Yulei Qin's home on the web! It is still under construction.
 
 Biography
 ======
-Yulei Qin received his B.E. in Automation in 2016 from SouthEast University, Ph.D. in Traitement du Signal et de l'Image in 2021 from INSA de Lyon, and Ph.D. in Control Science and Engineering from Shanghai Jiao Tong University in 2022. He was under joint-supervision from Prof. [Jie Yang](http://www.pami.sjtu.edu.cn/En/jieyang) in the Institute of Image Processing and Pattern Recognition and Prof. [Yue-Min Zhu](https://www.creatis.insa-lyon.fr/site7/en/users/zhu) in the CREATIS. Since 2022, he has been at Tencent YouTu Lab whare he is currently a senior researcher.
+Yulei Qin received his B.E. in Automation in 2016 from SouthEast University, Ph.D. in Traitement du Signal et de l'Image in 2021 from INSA de Lyon, and Ph.D. in Control Science and Engineering from Shanghai Jiao Tong University in 2022. He was a joint-doctoral student of the [Institute of Image Processing and Pattern Recognition](http://www.pami.sjtu.edu.cn/) and the [CREATIS](https://www.creatis.insa-lyon.fr/site7/fr). Since 2022, he has been at Tencent YouTu Lab whare he is currently a senior researcher.
 
 
 Research Interests
