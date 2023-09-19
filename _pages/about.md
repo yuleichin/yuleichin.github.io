@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Yulei Qin's home on the web! It is still under construction.
-
 
 Biography
 ======
