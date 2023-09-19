@@ -16,7 +16,7 @@ Education
 * Ph.D. in Control Science and Engineering, Shanghai Jiao Tong University, China, 2022
 
 
-Work experience
+Work Experience
 ======
 * 2022.03--Now: Senior Researcher
   * Tencent YouTu Lab
