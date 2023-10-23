@@ -35,11 +35,11 @@ Conference Papers
 
 
 * Yulei Qin, Xingyu Chen, Yunhang Shen, Chaoyou Fu, Yun Gu, Ke Li, Xing Sun, Rongrong Ji: CAPro: Webly Supervised Learning with Cross-Modality Aligned Prototypes. CoPR abs/2310.09761 (2023)
-[Paper](https://arxiv.org/abs/2310.09761)[Slides](http://yuleichin.github.io/files/NeurIPS2023/NeurIPS2023_CAPro_slides.pdf)[Codes](https://github.com/yuleiqin/capro)
+[[Paper](https://arxiv.org/abs/2310.09761)][[Slides](http://yuleichin.github.io/files/NeurIPS2023/NeurIPS2023_CAPro_slides.pdf)][[Codes](https://github.com/yuleiqin/capro)]
 
 
 * Yulei Qin, Xingyu Chen, Chao Chen, Yunhang Shen, Bo Ren, Yun Gu, Jie Yang, Chunhua Shen: FoPro: Few-Shot Guided Robust Webly-Supervised Prototypical Learning. AAAI 2023: 2101-2109
-[Paper](https://arxiv.org/abs/2212.00465)[Slides](http://yuleichin.github.io/files/AAAI2023/3370.YuleiQ-AAAI2023-slides.pdf)[Codes](https://github.com/yuleiqin/fopro)
+[[Paper](https://arxiv.org/abs/2212.00465)][[Slides](http://yuleichin.github.io/files/AAAI2023/3370.YuleiQ-AAAI2023-slides.pdf)][[Codes](https://github.com/yuleiqin/fopro)]
 
 
 * Yulei Qin, Hao Zheng, Yun Gu, Xiaolin Huang, Jie Yang, Lihui Wang, Yue-Min Zhu: Learning Bronchiole-Sensitive Airway Segmentation CNNs by Feature Recalibration and Attention Distillation. MICCAI (1) 2020: 221-231
