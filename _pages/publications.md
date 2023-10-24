@@ -48,7 +48,7 @@ Conference Papers
 
 
 * Yulei Qin, Hao Zheng, Yun Gu, Xiaolin Huang, Jie Yang, Lihui Wang, Yue-Min Zhu: Learning Bronchiole-Sensitive Airway Segmentation CNNs by Feature Recalibration and Attention Distillation. MICCAI (1) 2020: 221-231
-[[Paper](https://hal.science/hal-03435078/file/QinYulei_Miccai2020.pdf)][[Slides](http://yuleichin.github.io/files/MICCAI2020/poster_abstract.pdf)][[Codes](http://www.pami.sjtu.edu.cn/Show/56/146)]
+[[Paper](https://hal.science/hal-03435078/file/QinYulei_Miccai2020.pdf)][[Codes](http://www.pami.sjtu.edu.cn/Show/56/146)][[Poster](http://yuleichin.github.io/files/MICCAI2020/poster_abstract.pdf)]
 
 
 * Yulei Qin, Yun Gu, Hao Zheng, Mingjian Chen, Jie Yang, Yue-Min Zhu: AirwayNet-SE: A Simple-Yet-Effective Approach to Improve Airway Segmentation Using Context Scale Fusion. ISBI 2020: 809-813
