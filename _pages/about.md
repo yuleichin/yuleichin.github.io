@@ -24,6 +24,7 @@ Research Interest
 News
 ======
 
+* 11/2023: I will be serving as a reviewer for CVPR 2024.
 * 10/2023: I will be serving as a reviewer for IPCAI 2024.
 * 10/2023: I receive the certificate of distinction as an IEEE TMI distinguished reviewer.
 * 09/2023: One paper on webly supervised learning (WSL) is accepted by NeurIPS 2023.
