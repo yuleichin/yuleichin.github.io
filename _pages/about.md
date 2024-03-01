@@ -24,6 +24,7 @@ Research Interest
 News
 ======
 
+* 02/2024: One paper on sinkhorn distillation of large language models (LLMs) is accepted by COLING 2024.
 * 11/2023: I will be serving as a reviewer for CVPR 2024.
 * 10/2023: I will be serving as a reviewer for IPCAI 2024.
 * 10/2023: I receive the certificate of distinction as an IEEE TMI distinguished reviewer (2nd time).

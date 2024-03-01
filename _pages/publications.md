@@ -38,6 +38,12 @@ Journal Papers
 Conference Papers
 ======
 
+* Xiao Cui, Yulei Qin*, Yuting Gao, Enwei Zhang, Zihan Xu, Tong Wu, Ke Li, Xing Sun, Wengang Zhou, Houqiang Li: Sinkhorn Distance Minimization for Knowledge Distillation. CoPR abs/2402.17110 (2024)
+[[Paper](https://arxiv.org/pdf/2402.17110)][[Codes](https://github.com/2018cx/sinkd)]
+
+* Tong Wu, Yulei Qin, Enwei Zhang, Zihan Xu, Yuting Gao, Ke Li, Xing Sun: Towards Robust Text Retrieval with Progressive Learning. CoPR abs/2311.11691 (2023)
+[[Paper](https://arxiv.org/abs/2311.11691)][[Codes](https://huggingface.co/TownsWu/PEG)]
+
 
 * Yulei Qin, Xingyu Chen, Yunhang Shen, Chaoyou Fu, Yun Gu, Ke Li, Xing Sun, Rongrong Ji: CAPro: Webly Supervised Learning with Cross-Modality Aligned Prototypes. CoPR abs/2310.09761 (2023)
 [[Paper](https://arxiv.org/abs/2310.09761)][[Slides](http://yuleichin.github.io/files/NeurIPS2023/NeurIPS2023_CAPro_slides.pdf)][[Codes](https://github.com/yuleiqin/capro)][[Poster](http://yuleichin.github.io/files/NeurIPS2023/NeurIPS2023_CAPro_poster.png)]
