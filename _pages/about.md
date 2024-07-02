@@ -24,6 +24,8 @@ Research Interest
 News
 ======
 
+* 07/2024: Checkout our reading list for [Fantastic Data Engineering for Large Language Models](https://github.com/yuleiqin/fantastic-data-engineering).
+* 06/2024: I will be serving as a reviewer for EMNLP 2024.
 * 02/2024: One paper on sinkhorn distillation of large language models (LLMs) is accepted by COLING 2024.
 * 11/2023: I will be serving as a reviewer for CVPR 2024.
 * 10/2023: I will be serving as a reviewer for IPCAI 2024.
