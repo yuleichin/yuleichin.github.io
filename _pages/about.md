@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 
-Biography
-======
 Yulei Qin received his B.E. in Automation in 2016 from SouthEast University, Ph.D. in Traitement du Signal et de l'Image in 2021 from INSA de Lyon, and Ph.D. in Control Science and Engineering from Shanghai Jiao Tong University in 2022. He was a joint-doctoral student of the [Institute of Image Processing and Pattern Recognition](http://www.pami.sjtu.edu.cn/) and the [CREATIS](https://www.creatis.insa-lyon.fr/site7/fr). Since 2022, he has been at Tencent YouTu Lab whare he is currently a senior researcher.
 
 
@@ -24,6 +22,7 @@ Research Interest
 News
 ======
 
+* 08/2024: Our latest survey on [🌊Data Assessment and Selection for Instruction Tuning of Large Language Models](https://arxiv.org/abs/2408.02085) is online!
 * 07/2024: Checkout our reading list for [Fantastic Data Engineering for Large Language Models](https://github.com/yuleiqin/fantastic-data-engineering).
 * 06/2024: I will be serving as a reviewer for EMNLP 2024.
 * 02/2024: One paper on sinkhorn distillation of large language models (LLMs) is accepted by COLING 2024.

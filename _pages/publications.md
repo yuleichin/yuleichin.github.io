@@ -18,12 +18,18 @@ You can find my all articles on my [Google Scholar](https://scholar.google.com/c
 
 <!-- [[Paper]()][[Slides]()][[Codes]()] -->
 
-
-Journal Papers
+Preprints
 ======
+
+* Yulei Qin, Yuncheng Yang, Pengcheng Guo, Gang Li, Hang Shao, Yuchen Shi, Zihan Xu, Yun Gu, Ke Li, Xing Sun: Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models. CoRR abs/2408.02085 (2024)
+[[Paper](https://arxiv.org/abs/2408.02085)]
 
 * Yulei Qin, Yun Gu, Hanxiao Zhang, Jie Yang, Lihui Wang, Feng Yao, Yue-Min Zhu: Relationship between pulmonary nodule malignancy and surrounding pleurae, airways and vessels: a quantitative study using the public LIDC-IDRI dataset. CoRR abs/2106.12991 (2021)
 [[Paper](https://arxiv.org/abs/2106.12991)]
+
+
+Journal Papers
+======
 
 * Yulei Qin, Hao Zheng, Yun Gu, Xiaolin Huang, Jie Yang, Lihui Wang, Feng Yao, Yue-Min Zhu, Guang-Zhong Yang: Learning Tubule-Sensitive CNNs for Pulmonary Airway and Artery-Vein Segmentation in CT. IEEE Trans. Medical Imaging 40(6): 1603-1617 (2021)
 [[Paper](https://arxiv.org/abs/2012.05767)][[Codes](http://www.pami.sjtu.edu.cn/Show/56/146)]
