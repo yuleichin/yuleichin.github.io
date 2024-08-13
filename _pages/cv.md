@@ -58,7 +58,7 @@ Service
 ======
 * Conference Reviewer: MICCAI 2021/2022(Honorable Mentions)/2023, IPCAI 2024, CVPR 2024, EMNLP 2024
 * Journal Reviewer: IEEE TMI (Distinguished), IEEE JBHI, Med. Physics, AIIM, CMPB, MLWA, IJCARS
-
+* PC Member: AAAI 2025
 
 Skills
 ======
