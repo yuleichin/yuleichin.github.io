@@ -21,8 +21,14 @@ You can find my all articles on my [Google Scholar](https://scholar.google.com/c
 Preprints
 ======
 
+* Yuncheng Yang, Yulei Qin*, Tong Wu, Zihan Xu, Gang Li, Pengcheng Guo, Hang Shao, Yucheng Shi, Ke Li, Xing Sun, Jie Yang, Yun Gu: Leveraging Open Knowledge for Advancing Task Expertise in Large Language Models. CoRR abs/2408.02085 (2024)
+[[Paper](https://arxiv.org/abs/2408.15915)]
+
 * Yulei Qin, Yuncheng Yang, Pengcheng Guo, Gang Li, Hang Shao, Yuchen Shi, Zihan Xu, Yun Gu, Ke Li, Xing Sun: Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models. CoRR abs/2408.02085 (2024)
-[[Paper](https://arxiv.org/abs/2408.02085)]
+[[Paper](https://arxiv.org/abs/2408.02085)][[Codes](https://github.com/yuleiqin/fantastic-data-engineering)]
+
+* Tong Wu, Yulei Qin, Enwei Zhang, Zihan Xu, Yuting Gao, Ke Li, Xing Sun: Towards Robust Text Retrieval with Progressive Learning. CoPR abs/2311.11691 (2023)
+[[Paper](https://arxiv.org/abs/2311.11691)][[Codes](https://huggingface.co/TownsWu/PEG)]
 
 * Yulei Qin, Yun Gu, Hanxiao Zhang, Jie Yang, Lihui Wang, Feng Yao, Yue-Min Zhu: Relationship between pulmonary nodule malignancy and surrounding pleurae, airways and vessels: a quantitative study using the public LIDC-IDRI dataset. CoRR abs/2106.12991 (2021)
 [[Paper](https://arxiv.org/abs/2106.12991)]
@@ -44,32 +50,29 @@ Journal Papers
 Conference Papers
 ======
 
-* Xiao Cui, Yulei Qin*, Yuting Gao, Enwei Zhang, Zihan Xu, Tong Wu, Ke Li, Xing Sun, Wengang Zhou, Houqiang Li: Sinkhorn Distance Minimization for Knowledge Distillation. CoPR abs/2402.17110 (2024)
+* Xiao Cui, Yulei Qin*, Yuting Gao, Enwei Zhang, Zihan Xu, Tong Wu, Ke Li, Xing Sun, Wengang Zhou, Houqiang Li: Sinkhorn Distance Minimization for Knowledge Distillation. COLING 2024
 [[Paper](https://arxiv.org/pdf/2402.17110)][[Codes](https://github.com/2018cx/sinkd)]
 
-* Tong Wu, Yulei Qin, Enwei Zhang, Zihan Xu, Yuting Gao, Ke Li, Xing Sun: Towards Robust Text Retrieval with Progressive Learning. CoPR abs/2311.11691 (2023)
-[[Paper](https://arxiv.org/abs/2311.11691)][[Codes](https://huggingface.co/TownsWu/PEG)]
 
-
-* Yulei Qin, Xingyu Chen, Yunhang Shen, Chaoyou Fu, Yun Gu, Ke Li, Xing Sun, Rongrong Ji: CAPro: Webly Supervised Learning with Cross-Modality Aligned Prototypes. CoPR abs/2310.09761 (2023)
+* Yulei Qin, Xingyu Chen, Yunhang Shen, Chaoyou Fu, Yun Gu, Ke Li, Xing Sun, Rongrong Ji: CAPro: Webly Supervised Learning with Cross-Modality Aligned Prototypes. NeurIPS 2023
 [[Paper](https://arxiv.org/abs/2310.09761)][[Slides](http://yuleichin.github.io/files/NeurIPS2023/NeurIPS2023_CAPro_slides.pdf)][[Codes](https://github.com/yuleiqin/capro)][[Poster](http://yuleichin.github.io/files/NeurIPS2023/NeurIPS2023_CAPro_poster.png)]
 
 
-* Yulei Qin, Xingyu Chen, Chao Chen, Yunhang Shen, Bo Ren, Yun Gu, Jie Yang, Chunhua Shen: FoPro: Few-Shot Guided Robust Webly-Supervised Prototypical Learning. AAAI 2023: 2101-2109
+* Yulei Qin, Xingyu Chen, Chao Chen, Yunhang Shen, Bo Ren, Yun Gu, Jie Yang, Chunhua Shen: FoPro: Few-Shot Guided Robust Webly-Supervised Prototypical Learning. AAAI 2023
 [[Paper](https://arxiv.org/abs/2212.00465)][[Slides](http://yuleichin.github.io/files/AAAI2023/3370.YuleiQ-AAAI2023-slides.pdf)][[Codes](https://github.com/yuleiqin/fopro)]
 
 
-* Yulei Qin, Hao Zheng, Yun Gu, Xiaolin Huang, Jie Yang, Lihui Wang, Yue-Min Zhu: Learning Bronchiole-Sensitive Airway Segmentation CNNs by Feature Recalibration and Attention Distillation. MICCAI (1) 2020: 221-231
+* Yulei Qin, Hao Zheng, Yun Gu, Xiaolin Huang, Jie Yang, Lihui Wang, Yue-Min Zhu: Learning Bronchiole-Sensitive Airway Segmentation CNNs by Feature Recalibration and Attention Distillation. MICCAI 2020
 [[Paper](https://hal.science/hal-03435078/file/QinYulei_Miccai2020.pdf)][[Codes](http://www.pami.sjtu.edu.cn/Show/56/146)][[Poster](http://yuleichin.github.io/files/MICCAI2020/poster_abstract.pdf)]
 
 
-* Yulei Qin, Yun Gu, Hao Zheng, Mingjian Chen, Jie Yang, Yue-Min Zhu: AirwayNet-SE: A Simple-Yet-Effective Approach to Improve Airway Segmentation Using Context Scale Fusion. ISBI 2020: 809-813
+* Yulei Qin, Yun Gu, Hao Zheng, Mingjian Chen, Jie Yang, Yue-Min Zhu: AirwayNet-SE: A Simple-Yet-Effective Approach to Improve Airway Segmentation Using Context Scale Fusion. ISBI 2020
 [[Paper](https://hal.science/hal-03434883/file/QinYulei_Isbi2020.pdf)][[Data](http://www.pami.sjtu.edu.cn/Show/56/126)]
 
 
-* Yulei Qin, Mingjian Chen, Hao Zheng, Yun Gu, Mali Shen, Jie Yang, Xiaolin Huang, Yue-Min Zhu, Guang-Zhong Yang: AirwayNet: A Voxel-Connectivity Aware Approach for Accurate Airway Segmentation Using Convolutional Neural Networks. MICCAI (6) 2019: 212-220
+* Yulei Qin, Mingjian Chen, Hao Zheng, Yun Gu, Mali Shen, Jie Yang, Xiaolin Huang, Yue-Min Zhu, Guang-Zhong Yang: AirwayNet: A Voxel-Connectivity Aware Approach for Accurate Airway Segmentation Using Convolutional Neural Networks. MICCAI 2019
 [[Paper](https://arxiv.org/abs/1907.06852)]
 
 
-* Yulei Qin, Hao Zheng, Yue-Min Zhu, Jie Yang: Simultaneous Accurate Detection of Pulmonary Nodules and False Positive Reduction Using 3D CNNs. ICASSP 2018: 1005-1009
+* Yulei Qin, Hao Zheng, Yue-Min Zhu, Jie Yang: Simultaneous Accurate Detection of Pulmonary Nodules and False Positive Reduction Using 3D CNNs. ICASSP 2018
 [[Paper](https://hal.science/hal-04254078)]
