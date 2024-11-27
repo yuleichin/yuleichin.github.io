@@ -37,6 +37,9 @@ Preprints
 Journal Papers
 ======
 
+* Xiao Cui, Yulei Qin*, Yuting Gao, Enwei Zhang, Zihan Xu, Tong Wu, Ke Li, Xing Sun, Wengang Zhou, Houqiang Li: SinKD: Sinkhorn Distance Minimization for Knowledge Distillation. IEEE Trans. Neural Networks and Learning Systems: In Press (2024)
+[[Paper](https://hal.science/hal-04803835)][[Codes](https://github.com/2018cx/SinKD)]
+
 * Yulei Qin, Hao Zheng, Yun Gu, Xiaolin Huang, Jie Yang, Lihui Wang, Feng Yao, Yue-Min Zhu, Guang-Zhong Yang: Learning Tubule-Sensitive CNNs for Pulmonary Airway and Artery-Vein Segmentation in CT. IEEE Trans. Medical Imaging 40(6): 1603-1617 (2021)
 [[Paper](https://arxiv.org/abs/2012.05767)][[Codes](http://www.pami.sjtu.edu.cn/Show/56/146)]
 

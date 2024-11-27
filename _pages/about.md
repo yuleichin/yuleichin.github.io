@@ -22,6 +22,7 @@ Research Interest
 News
 ======
 
+* 11/2024: One paper on [sinkhorn distillation](https://hal.science/hal-04803835) is accepted by IEEE TNNLS as an extension to our COLING conference paper.
 * 08/2024: Our latest survey on [🌊Data Assessment and Selection for Instruction Tuning of Large Language Models](https://arxiv.org/abs/2408.02085) is online!
 * 07/2024: Checkout our reading list for [Fantastic Data Engineering for Large Language Models](https://github.com/yuleiqin/fantastic-data-engineering).
 * 06/2024: I will be serving as a reviewer for EMNLP 2024.
