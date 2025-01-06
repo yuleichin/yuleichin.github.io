@@ -22,6 +22,7 @@ Research Interest
 News
 ======
 
+* 01/2025: Our survey on [data assessment and selection for instruction tuning](https://openreview.net/pdf?id=RJT1baPhdV) is accepted to TMLR with a <span style="background-color: #0BDAD0; color: white;">survey</span> certificate.
 * 12/2024: One paper on [Cross-Tokenizer Distillation on Large Language Models](https://arxiv.org/pdf/2412.14528) is accepted by AAAI 2025.
 * 11/2024: One paper on [Sinkhorn Distillation](https://hal.science/hal-04803835) is accepted by IEEE TNNLS as an extension to our COLING conference paper.
 * 08/2024: Our latest survey on [🌊Data Assessment and Selection for Instruction Tuning of Large Language Models](https://arxiv.org/abs/2408.02085) is online!

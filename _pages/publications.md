@@ -24,9 +24,6 @@ Preprints
 * Yuncheng Yang, Yulei Qin*, Tong Wu, Zihan Xu, Gang Li, Pengcheng Guo, Hang Shao, Yuchen Shi, Ke Li, Xing Sun, Jie Yang, Yun Gu: Leveraging Open Knowledge for Advancing Task Expertise in Large Language Models. CoRR abs/2408.02085 (2024)
 [[Paper](https://arxiv.org/abs/2408.15915)][[Codes](https://github.com/Yaphabates/Rocket)]
 
-* Yulei Qin, Yuncheng Yang, Pengcheng Guo, Gang Li, Hang Shao, Yuchen Shi, Zihan Xu, Yun Gu, Ke Li, Xing Sun: Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models. CoRR abs/2408.02085 (2024)
-[[Paper](https://arxiv.org/abs/2408.02085)][[Codes](https://github.com/yuleiqin/fantastic-data-engineering)]
-
 * Tong Wu, Yulei Qin, Enwei Zhang, Zihan Xu, Yuting Gao, Ke Li, Xing Sun: Towards Robust Text Retrieval with Progressive Learning. CoPR abs/2311.11691 (2023)
 [[Paper](https://arxiv.org/abs/2311.11691)][[Codes](https://huggingface.co/TownsWu/PEG)]
 
@@ -36,6 +33,9 @@ Preprints
 
 Journal Papers
 ======
+
+* Yulei Qin, Yuncheng Yang, Pengcheng Guo, Gang Li, Hang Shao, Yuchen Shi, Zihan Xu, Yun Gu, Ke Li, Xing Sun: Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models. Transactions on Machine Learning Research (2025)
+[[Paper](https://openreview.net/pdf?id=RJT1baPhdV)][[Codes](https://github.com/yuleiqin/fantastic-data-engineering)]
 
 * Xiao Cui, Yulei Qin*, Yuting Gao, Enwei Zhang, Zihan Xu, Tong Wu, Ke Li, Xing Sun, Wengang Zhou, Houqiang Li: SinKD: Sinkhorn Distance Minimization for Knowledge Distillation. IEEE Trans. Neural Networks and Learning Systems: In Press (2024)
 [[Paper](https://hal.science/hal-04803835)][[Codes](https://github.com/2018cx/SinKD)]
