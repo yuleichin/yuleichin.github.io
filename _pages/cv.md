@@ -63,11 +63,12 @@ Service
 
 * Conference Reviewer
 
-  * MICCAI 2021/2022 (Honorable Mentions)/2023
+  * MICCAI 2021/2022 (Honorable Mentions)/2023/2025
   * IPCAI 2024
   * CVPR 2024/2025
   * ACL APR 2024/2025
   * AAAI 2025
+  * ICCV 2025
 
 * Journal Reviewer
   * IEEE TMI (Distinguished x3)
