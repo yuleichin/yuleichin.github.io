@@ -69,6 +69,7 @@ Service
   * ACL APR 2024/2025
   * AAAI 2025
   * ICCV 2025
+  * NeurIPS 2025
 
 * Journal Reviewer
   * IEEE TMI (Distinguished x3)
