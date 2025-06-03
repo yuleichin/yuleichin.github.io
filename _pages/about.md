@@ -22,6 +22,7 @@ Research Interest
 News
 ======
 
+* 06/2025: Our paper on [🤔Incentivizing Reasoning for Advanced Instruction-Following of Large Language Models](https://arxiv.org/pdf/2506.01413) is online!
 * 02/2025: One paper on dataset distillation via optimal transport is accepted by CVPR 2025.
 * 02/2025: Our report about the reproduction of open-source projects on DeepSeek R1 training is available at [1](https://mp.weixin.qq.com/s/BYPKP5oXg1V4C_vg0VFGhw) and [2](https://mp.weixin.qq.com/s/U5FjoSf1EizydeiymGX2lw?poc_token=HIo0uGejNivyjrc6oHos-bIqksSCK0oXswYbojP9). Thanks for the open-source community.
 * 01/2025: I am invited to serve as an area chair for MICCAI 2025.

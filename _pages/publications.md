@@ -21,6 +21,9 @@ You can find my all articles on my [Google Scholar](https://scholar.google.com/c
 Preprints
 ======
 
+* Yulei Qin, Gang Li, Zongyi Li, Zihan Xu, Yuchen Shi, Zhekai Lin, Xiao Cui, Ke Li, Xing Sun: Incentivizing Reasoning for Advanced Instruction-Following of Large Language Models. CoRR abs/2506.01413 (2025)
+[[Paper](https://arxiv.org/abs/2506.01413)][[Codes](https://https://github.com/yuleiqin/RAIF)][[Checkpoints](https://huggingface.co/collections/yolay/raif-arxivorg-pdf-250601413-682b16e5c0c2fa9b73811369)]
+
 * Yuncheng Yang, Yulei Qin*, Tong Wu, Zihan Xu, Gang Li, Pengcheng Guo, Hang Shao, Yuchen Shi, Ke Li, Xing Sun, Jie Yang, Yun Gu: Leveraging Open Knowledge for Advancing Task Expertise in Large Language Models. CoRR abs/2408.02085 (2024)
 [[Paper](https://arxiv.org/abs/2408.15915)][[Codes](https://github.com/Yaphabates/Rocket)]
 
