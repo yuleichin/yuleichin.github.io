@@ -22,7 +22,7 @@ Research Interest
 News
 ======
 
-* 09/2025: Four papers dataset distillation, complex instruction following, MME-Benchmark, and LTD-Benchmark) are accepted to NeurIPS 2025.
+* 09/2025: Four papers on dataset distillation, complex instruction following, MME-Benchmark, and LTD-Benchmark are accepted to NeurIPS 2025.
 * 06/2025: Our paper on [🤔Incentivizing Reasoning for Advanced Instruction-Following of Large Language Models](https://arxiv.org/pdf/2506.01413) is online!
 * 02/2025: One paper on dataset distillation via optimal transport is accepted by CVPR 2025 (<span style="background-color: white; color: rgb(170, 0, 0);">Highlight</span>).
 * 02/2025: Our report about the reproduction of open-source projects on DeepSeek R1 training is available at [1](https://mp.weixin.qq.com/s/BYPKP5oXg1V4C_vg0VFGhw) and [2](https://mp.weixin.qq.com/s/U5FjoSf1EizydeiymGX2lw?poc_token=HIo0uGejNivyjrc6oHos-bIqksSCK0oXswYbojP9). Thanks for the open-source community.
