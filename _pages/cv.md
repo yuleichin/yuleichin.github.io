@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+
+You can find my resume [here](http://yuleichin.github.io/files/resume/resume_en_cn.pdf).
+
+
 Education
 ======
 * B.E. in Automation, SouthEast University, China, 2016
@@ -19,13 +23,7 @@ Education
 Work Experience
 ======
 * 2022.03--Now: Senior Researcher
-  * Tencent YouTu Lab
-
-
-* 2016.02--2019.12: Teaching Assistant
-  * Shanghai Jiao Tong University
-  * Python 夏令营 (2019); 嵌入式系统原理与应用 (2019); 数据库原理与应用 (2018,2019); 模拟电子技术 (2018); 信号与系统 (2016)
-
+  * Tencent Youtu Lab
 
 
 <!-- Publications
@@ -67,7 +65,7 @@ Service
   * MICCAI 2021/2022 (Honorable Mentions)/2023
   * IPCAI 2024
   * CVPR 2024/2025/2026
-  * ACL APR 2024/2025
+  * ACL ARR 2024/2025
   * AAAI 2025/2026
   * ICCV 2025
   * NeurIPS 2025
@@ -83,6 +81,15 @@ Service
   * MLWA
   * IJCARS
 
+
+* Teaching Assistant (Shanghai Jiao Tong University)
+  * Python Summer Camp 2019
+  * Principles and Applications of Embedded Systems (嵌入式系统原理与应用) 2019
+  * Principles and Applications of Database (数据库原理与应用) 2018/2019
+  * Analog Electronics Techniques (模拟电子技术) 2018
+  * Signals and Systems (信号与系统) 2016
+
+
 Skills
 ======
 * Languages
@@ -90,7 +97,9 @@ Skills
   * English, TOEFL 105
   * Japanese, JLPT N1
   * French, un peu (A1)
-* Python, PyTorch
+
+* Programming: Python, PyTorch
+
 
 People
 ======
