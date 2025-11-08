@@ -23,6 +23,7 @@ News
 ======
 
 
+* 11/2025: One paper on Long-tailed Dataset Distillation is accepted to AAAI 2026 (<span style="background-color: white; color: rgb(170, 0, 0);">Oral</span>).
 * 09/2025: Our paper on [🤖Self-imitation with Progressive Exploration for Agentic Reinforcement Learning](https://huggingface.co/papers/2509.22601) is online!
 * 09/2025: Four papers on dataset distillation, complex instruction following, MME-Benchmark, and LTD-Benchmark are accepted to NeurIPS 2025.
 * 06/2025: Our paper on [🤔Incentivizing Reasoning for Advanced Instruction-Following of Large Language Models](https://arxiv.org/pdf/2506.01413) is online!
