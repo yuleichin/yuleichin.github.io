@@ -21,6 +21,9 @@ You can find my all articles on my [Google Scholar](https://scholar.google.com/c
 Preprints
 ======
 
+* Shaofei Cai, Yulei Qin*, Haojia Lin, Zihan Xu, Gang Li, Yuchen Shi, Zongyi Li, Yong Mao, Siqi Cai, Xiaoyu Tan, Yitao Liang, Ke Li, Xing Sun: SmartSnap: Proactive Evidence Seeking for Self-Verifying Agents. CoRR abs/2512.22322 (2025)
+[[Paper](https://arxiv.org/abs/2512.22322)][[Codes](https://github.com/TencentYoutuResearch/SmartSnap)][[Checkpoints](https://huggingface.co/collections/yolay/smartsnap)]
+
 * Yulei Qin, Xiaoyu Tan, Zhengbao He, Gang Li, Haojia Lin, Zongyi Li, Zihan Xu, Yuchen Shi, Siqi Cai, Renting Rui, Shaofei Cai, Yuzheng Cai, Xuan Zhang, Sheng Ye, Ke Li, Xing Sun: Learn the Ropes, Then Trust the Wins: Self-imitation with Progressive Exploration for Agentic Reinforcement Learning. CoRR abs/2509.22601 (2025)
 [[Paper](https://arxiv.org/abs/2509.22601)][[Codes](https://github.com/TencentYoutuResearch/SPEAR)][[Checkpoints](https://huggingface.co/collections/yolay/spear-68da1c8b75098b1868db59c8)]
 
