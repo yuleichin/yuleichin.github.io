@@ -24,9 +24,6 @@ Preprints
 * Shaofei Cai, Yulei Qin*, Haojia Lin, Zihan Xu, Gang Li, Yuchen Shi, Zongyi Li, Yong Mao, Siqi Cai, Xiaoyu Tan, Yitao Liang, Ke Li, Xing Sun: SmartSnap: Proactive Evidence Seeking for Self-Verifying Agents. CoRR abs/2512.22322 (2025)
 [[Paper](https://arxiv.org/abs/2512.22322)][[Codes](https://github.com/TencentYoutuResearch/SmartSnap)][[Checkpoints](https://huggingface.co/collections/yolay/smartsnap)]
 
-* Yulei Qin, Xiaoyu Tan, Zhengbao He, Gang Li, Haojia Lin, Zongyi Li, Zihan Xu, Yuchen Shi, Siqi Cai, Renting Rui, Shaofei Cai, Yuzheng Cai, Xuan Zhang, Sheng Ye, Ke Li, Xing Sun: Learn the Ropes, Then Trust the Wins: Self-imitation with Progressive Exploration for Agentic Reinforcement Learning. CoRR abs/2509.22601 (2025)
-[[Paper](https://arxiv.org/abs/2509.22601)][[Codes](https://github.com/TencentYoutuResearch/SPEAR)][[Checkpoints](https://huggingface.co/collections/yolay/spear-68da1c8b75098b1868db59c8)]
-
 * Yuncheng Yang, Yulei Qin*, Tong Wu, Zihan Xu, Gang Li, Pengcheng Guo, Hang Shao, Yuchen Shi, Ke Li, Xing Sun, Jie Yang, Yun Gu: Leveraging Open Knowledge for Advancing Task Expertise in Large Language Models. CoRR abs/2408.02085 (2024)
 [[Paper](https://arxiv.org/abs/2408.15915)][[Codes](https://github.com/Yaphabates/Rocket)]
 
@@ -58,6 +55,14 @@ Journal Papers
 
 Conference Papers
 ======
+
+* Yulei Qin, Xiaoyu Tan, Zhengbao He, Gang Li, Haojia Lin, Zongyi Li, Zihan Xu, Yuchen Shi, Siqi Cai, Renting Rui, Shaofei Cai, Yuzheng Cai, Xuan Zhang, Sheng Ye, Ke Li, Xing Sun: Learn the Ropes, Then Trust the Wins: Self-imitation with Progressive Exploration for Agentic Reinforcement Learning. ICLR 2026
+[[Paper](https://arxiv.org/abs/2509.22601)][[Codes](https://github.com/TencentYoutuResearch/SPEAR)][[Checkpoints](https://huggingface.co/collections/yolay/spear-68da1c8b75098b1868db59c8)]
+
+
+* Fangrui Lv, Yulei Qin, Ruixin Hong, Jian Liang, Jinyang Wu, Ke Li, Xing Sun, Changshui Zhang: Attend to the Active: Structure-Aware Dynamic Attention in LLMs for Compositional Instruction Following. ICLR 2026
+[[Paper](https://openreview.net/forum?id=wwA0X3UfAn&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))]
+
 
 * Yulei Qin, Gang Li, Zongyi Li, Zihan Xu, Yuchen Shi, Zhekai Lin, Xiao Cui, Ke Li, Xing Sun: Incentivizing Reasoning for Advanced Instruction-Following of Large Language Models. NeurIPS 2025
 [[Paper](https://arxiv.org/abs/2506.01413)][[Codes](https://https://github.com/yuleiqin/RAIF)][[Checkpoints](https://huggingface.co/collections/yolay/raif-arxivorg-pdf-250601413-682b16e5c0c2fa9b73811369)][[Poster](http://yuleichin.github.io/files/NeurIPS2025/1794-slides.pdf)]

@@ -22,6 +22,8 @@ Research Interests
 News
 ======
 
+* 01/2026: Three papers on agentic RL, compositional instruction following, and RL exploration are accepted to ICLR 2026.
+* 01/2026: I am invited to serve as an area chair for MICCAI 2026.
 * 12/2025: Our paper on [🐧Youtu-Agent: Scaling Agent Productivity with Automated Generation and Hybrid Policy Optimization](https://huggingface.co/papers/2512.24615) is online! Now you can [**train**](https://github.com/TencentCloudADP/youtu-agent/tree/rl/agl) any Youtu-Agent via RL in an end-to-end, scalable-and-stable manner [[Medium]](https://medium.com/@yuleiqin/stop-wrestling-with-your-agent-rl-how-youtu-agent-achieved-stable-128-gpu-scaling-without-e6a765a3e92b) [[Notion Blog]](https://spotted-coconut-df8.notion.site/Stop-Wrestling-with-Your-Agent-RL-How-Youtu-Agent-Achieved-Stable-128-GPU-Scaling-Without-Breaking-2ca5e8f089ba80539a98c582b65e0233).
 * 12/2025: Our paper on [📸SmartSnap: Proactive Evidence Seeking for Self-Verifying Agents](https://huggingface.co/papers/2512.22322) is online!
 * 11/2025: One paper on Long-tailed Dataset Distillation is accepted to AAAI 2026 (<span style="background-color: white; color: rgb(170, 0, 0);">Oral</span>).

@@ -58,7 +58,7 @@ Service
 
 * Conference Area Chair
 
-  * MICCAI 2025
+  * MICCAI 2025/2026
 
 * Conference Reviewer
 
