@@ -57,7 +57,7 @@ Conference Papers
 ======
 
 * Yulei Qin, Xiaoyu Tan, Zhengbao He, Gang Li, Haojia Lin, Zongyi Li, Zihan Xu, Yuchen Shi, Siqi Cai, Renting Rui, Shaofei Cai, Yuzheng Cai, Xuan Zhang, Sheng Ye, Ke Li, Xing Sun: Learn the Ropes, Then Trust the Wins: Self-imitation with Progressive Exploration for Agentic Reinforcement Learning. ICLR 2026
-[[Paper](https://arxiv.org/abs/2509.22601)][[Codes](https://github.com/TencentYoutuResearch/SPEAR)][[Checkpoints](https://huggingface.co/collections/yolay/spear-68da1c8b75098b1868db59c8)]
+[[Paper](https://arxiv.org/abs/2509.22601)][[Codes](https://github.com/TencentYoutuResearch/SPEAR)][[Checkpoints](https://huggingface.co/collections/yolay/spear-68da1c8b75098b1868db59c8)][[Poster](http://yuleichin.github.io/files/ICLR2026/288-slides.pdf)]
 
 
 * Fangrui Lv, Yulei Qin, Ruixin Hong, Jian Liang, Jinyang Wu, Ke Li, Xing Sun, Changshui Zhang: Attend to the Active: Structure-Aware Dynamic Attention in LLMs for Compositional Instruction Following. ICLR 2026
