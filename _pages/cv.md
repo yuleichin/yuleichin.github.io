@@ -70,9 +70,10 @@ Service
   * ICCV 2025
   * NeurIPS 2025
   * ICLR 2026
+  * ICML 2026 (Gold Reviewer)
 
 * Journal Reviewer
-  * IEEE TMI (Distinguished x3)
+  * IEEE TMI (Distinguished Reviewer: Gold/Silver/Bronze)
   * IEEE TNNLS
   * IEEE JBHI
   * Med. Physics
