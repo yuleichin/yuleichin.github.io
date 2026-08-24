@@ -22,6 +22,9 @@ Research Interests
 News
 ======
 
+* 08/2026: Our extension paper of [OPTICAL](https://cvpr.thecvf.com/virtual/2025/poster/32983) for distillation with optimal transport is accepted to IEEE TPAMI.
+* 08/2026: One paper on [agentic RL with world model planning](https://arxiv.org/abs/2606.27483) is accepted to EMNLP 2026.
+* 07/2026: One paper on [categorical critics-based agentic RL](https://arxiv.org/abs/2608.02181) is accepted to COLM 2026.
 * 04/2026: Two papers on diffusion dataset condensation and computer-use reward benchmark are accepted to ICML 2026.
 * 01/2026: Three papers on agentic RL, compositional instruction following, and RL exploration are accepted to ICLR 2026.
 * 01/2026: I am invited to serve as an area chair for MICCAI 2026.
