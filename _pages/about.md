@@ -22,6 +22,7 @@ Research Interests
 News
 ======
 
+* 08/2026: Our extension paper of [MultiLevelOT](https://arxiv.org/abs/2412.14528) for cross-tokenizer LLM distillation with optimal transport is accepted to IEEE TPAMI.
 * 08/2026: Our extension paper of [OPTICAL](https://cvpr.thecvf.com/virtual/2025/poster/32983) for distillation with optimal transport is accepted to IEEE TPAMI.
 * 08/2026: One paper on [agentic RL with world model planning](https://arxiv.org/abs/2606.27483) is accepted to EMNLP 2026.
 * 07/2026: One paper on [categorical critics-based agentic RL](https://arxiv.org/abs/2608.02181) is accepted to COLM 2026.
