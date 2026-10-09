@@ -22,6 +22,8 @@ Research Interests
 News
 ======
 
+
+* 09/2026: Two papers on adversarial LLM blackbox distillation and structured reasoning-grounded agentic RL are accepted to NeurIPS 2026.
 * 08/2026: Our extension paper of [MultiLevelOT](https://arxiv.org/abs/2412.14528) for cross-tokenizer LLM distillation with optimal transport is accepted to IEEE TPAMI.
 * 08/2026: Our extension paper of [OPTICAL](https://cvpr.thecvf.com/virtual/2025/poster/32983) for distillation with optimal transport is accepted to IEEE TPAMI.
 * 08/2026: One paper on [agentic RL with world model planning](https://arxiv.org/abs/2606.27483) is accepted to EMNLP 2026.
