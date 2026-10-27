@@ -10,13 +10,14 @@ redirect_from:
 {% include base_path %}
 
 
-You can find my resume [here](http://yuleichin.github.io/files/resume/resume_en_cn.pdf).
+<!-- You can find my resume [here](http://yuleichin.github.io/files/resume/resume_en_cn.pdf). -->
 
 
 Education
 ======
 * B.E. in Automation, SouthEast University, China, 2016
-* Ph.D. in Traitement du Signal et de l'Image, INSA de Lyon, France, 2021
+* Ph.D. in Traitement du Signal et de l'Image, INSA de Lyon, Université de Lyon, France, 2021
+  * Dual doctoral degree (cotutelle) program with Shanghai Jiao Tong University
 * Ph.D. in Control Science and Engineering, Shanghai Jiao Tong University, China, 2022
 
 
@@ -47,57 +48,30 @@ Teaching
 
 Awards
 ======
-* 优秀毕业生, Shanghai Jiao Tong University, 2022
-* 李介谷优秀博士论文奖, Shanghai Jiao Tong University, 2022
+* ICML Gold Reviewer, 2026
+* IEEE TMI Distinguished Reviewer (Gold/Silver/Bronze), 2022/2023/2024
+* MICCAI Honorable Mention Reviewer, 2022
+* Outstanding Graduate (优秀毕业生), Shanghai Jiao Tong University, 2022
+* Lee Chieh-Ku Thesis Award (李介谷优秀博士论文奖), Shanghai Jiao Tong University, 2022
 * National Scholarship for Ph.D. Students (国家奖学金), 2019 
-* China Scholarship Council (公派奖学金), 2019
+* China Scholarship Council (国家公派奖学金), 2019
 
 
 Service
 ======
 
-* Conference Area Chair
+* Conference Area Chair: MICCAI, ACL ARR
 
-  * MICCAI 2025/2026
+* Conference Reviewer: MICCAI, IPCAI, CVPR, ACL ARR, AAAI, ICCV, NeurIPS, ICLR
 
-* Conference Reviewer
+* Journal Reviewer: IEEE TMI, TNNLS, JBHI, TMLR, MedPhysics, AIIM, CMPB, MLWA, IJCARS
 
-  * MICCAI 2021/2022 (Honorable Mentions)/2023
-  * IPCAI 2024
-  * CVPR 2024/2025/2026
-  * ACL ARR 2024/2025
-  * AAAI 2025/2026
-  * ICCV 2025
-  * NeurIPS 2025
-  * ICLR 2026
-  * ICML 2026 (Gold Reviewer)
-
-* Journal Reviewer
-  * IEEE TMI (Distinguished Reviewer: Gold/Silver/Bronze)
-  * IEEE TNNLS
-  * IEEE JBHI
-  * Med. Physics
-  * AIIM
-  * CMPB
-  * MLWA
-  * IJCARS
-
-
-* Teaching Assistant (Shanghai Jiao Tong University)
-  * Python Summer Camp 2019
-  * Principles and Applications of Embedded Systems (嵌入式系统原理与应用) 2019
-  * Principles and Applications of Database (数据库原理与应用) 2018/2019
-  * Analog Electronics Techniques (模拟电子技术) 2018
-  * Signals and Systems (信号与系统) 2016
+<!-- * Teaching Assistant: Python Summer Camp/Principles and Applications of Embedded Systems/Principles and Applications of Database/Analog Electronics Techniques/Signals and Systems -->
 
 
 Skills
 ======
-* Languages
-  * Mandarin, mother tongue
-  * English, TOEFL 105
-  * Japanese, JLPT N1
-  * French, un peu (A1)
+* Languages: Mandarin, English (TOEFL 105), Japanese (JLPT N1), French (un peu, A1)
 
 * Programming: Python, PyTorch
 
@@ -108,10 +82,10 @@ Prof. [Jie Yang](http://www.pami.sjtu.edu.cn/En/jieyang)
 
 Prof. [Yue-Min Zhu](https://www.creatis.insa-lyon.fr/site7/en/users/zhu)
 
-Prof. [Guang-Zhong Yang](https://imr.sjtu.edu.cn/en/po_facultyv/532.html)
+Prof. [Guang-Zhong Yang](https://imr.sjtu.edu.cn/xy_leaders/2886.html)
 
 Prof. [Xiaolin Huang](http://www.pami.sjtu.edu.cn/En/xiaolin)
 
-Prof. [Yun Gu](https://imr.sjtu.edu.cn/en/po_facultyv/531.html)
+Prof. [Yun Gu](https://imr.sjtu.edu.cn/sz_teachers/3164.html)
 
 
