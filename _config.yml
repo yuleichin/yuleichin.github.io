@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yulei Qin (秦玉磊)"
 title_separator          : "-"
 name                     : &name "Yulei Qin"
-description              : &description "Senior Researcher at Tencent"
+description              : &description "Research Scientist at Alibaba"
 url                      : https://yuleichin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuleichin.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yulei Qin"
   avatar           : "profile_work.jpeg"
-  bio              : "Senior Researcher at Tencent"
+  bio              : "Research Scientist at Alibaba"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 

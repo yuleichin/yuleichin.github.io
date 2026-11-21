@@ -15,7 +15,7 @@ redirect_from:
 
 Education
 ======
-* B.E. in Automation, SouthEast University, China, 2016
+* B.E. in Automation, Southeast University, China, 2016
 * Ph.D. in Traitement du Signal et de l'Image, INSA de Lyon, Université de Lyon, France, 2021
   * Dual doctoral degree (cotutelle) program with Shanghai Jiao Tong University
 * Ph.D. in Control Science and Engineering, Shanghai Jiao Tong University, China, 2022
@@ -23,8 +23,8 @@ Education
 
 Work Experience
 ======
-* 2022.03--Now: Senior Researcher
-  * Tencent Youtu Lab
+* 2026.11--Now: Alibaba Group, Token Foundry, Research Scientist
+* 2022.04--2026.10: Tencent, Youtu Lab, Senior Researcher
 
 
 <!-- Publications
@@ -59,11 +59,8 @@ Awards
 
 Service
 ======
-
 * Conference Area Chair: MICCAI, ACL ARR
-
 * Conference Reviewer: MICCAI, IPCAI, CVPR, ACL ARR, AAAI, ICCV, NeurIPS, ICLR
-
 * Journal Reviewer: IEEE TMI, TNNLS, JBHI, TMLR, MedPhysics, AIIM, CMPB, MLWA, IJCARS
 
 <!-- * Teaching Assistant: Python Summer Camp/Principles and Applications of Embedded Systems/Principles and Applications of Database/Analog Electronics Techniques/Signals and Systems -->
@@ -72,7 +69,6 @@ Service
 Skills
 ======
 * Languages: Mandarin, English (TOEFL 105), Japanese (JLPT N1), French (un peu, A1)
-
 * Programming: Python, PyTorch
 
 

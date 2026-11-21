@@ -9,20 +9,18 @@ redirect_from:
 ---
 
 
-Yulei Qin received his B.E. in Automation in 2016 from SouthEast University, Ph.D. in Traitement du Signal et de l'Image in 2021 from INSA de Lyon, and Ph.D. in Control Science and Engineering from Shanghai Jiao Tong University in 2022. He was a joint-doctoral student of the [Institute of Image Processing and Pattern Recognition](http://www.pami.sjtu.edu.cn/) and the [CREATIS](https://www.creatis.insa-lyon.fr/site7/fr). Since 2022, he has been at [Tencent Youtu Lab](https://open.youtu.qq.com/#/open) where he is currently a senior researcher.
+I am currently a research scientist at [Alibaba Token Foundry](https://qwen.ai/home). I previously worked as a senior researcher at [Tencent Youtu Lab](https://open.youtu.qq.com/#/open) since 2022. I was a joint-doctoral student of the [Institute of Image Processing and Pattern Recognition](http://www.pami.sjtu.edu.cn/) and the [CREATIS](https://www.creatis.insa-lyon.fr/site7/fr), and received Ph.D. degrees from INSA de Lyon and Shanghai Jiao Tong University. Prior to that, I received B.Eng degree in Automation from Southeast University in 2016.
 
 
 Research Interests
 ======
-* Large Language Models
-* Learning with Noisy Labels
-* Medical Image Analysis
+My research interests span a broad spectrum of LLMs in alignment, reasoning, and agentic capabilities across various application domains.
+Specifically, I am interested in scaling reinforcement learning for training long-horizon LLM agents with real-world user interactions.
+Previously, I also worked on learning with noisy labels from multimodal web data, and medical image analysis for computer-assisted diagnosis.
 
 
 News
 ======
-
-
 * 09/2026: Two papers on adversarial LLM blackbox distillation and structured reasoning-grounded agentic RL are accepted to NeurIPS 2026.
 * 08/2026: Our extension paper of [MultiLevelOT](https://arxiv.org/abs/2412.14528) for cross-tokenizer LLM distillation with optimal transport is accepted to IEEE TPAMI.
 * 08/2026: Our extension paper of [OPTICAL](https://cvpr.thecvf.com/virtual/2025/poster/32983) for distillation with optimal transport is accepted to IEEE TPAMI.
